@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/NAqend_mfQgAAAAC/github.gif" />
+  <img src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" height="40">, I'm Miftah</h1>
@@ -7,7 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miftah0908" alt="miftah0908" /></a> </p>
 
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/miftah0908?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/miftah0908/watchers/)
+
+
+
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
