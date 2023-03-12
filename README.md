@@ -9,6 +9,7 @@
 
 # 💫 About Me:
 Introducing my name is Miftah, I'm from Indonesia, I'm 13 years old, I'm still learning about coding
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
 ## 🌐 Socials:
