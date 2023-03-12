@@ -21,6 +21,7 @@ Introducing my name is Miftah, I'm from Indonesia, I'm 13 years old, I'm still l
 ![](https://github-readme-stats.vercel.app/api?username=miftah0908&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miftah0908&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miftah0908&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/a6432ghaSToAAAAC/statistics-math.gif">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=miftah0908&theme=radical&no-frame=false&no-bg=false&margin-w=4)
