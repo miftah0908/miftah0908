@@ -27,10 +27,7 @@ Introducing my name is Miftah, I'm from Indonesia, I'm 13 years old, I'm still l
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miftah0908&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miftah0908" alt="miftah0908" /></a> </p>
-
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/miftah0908?tab=followers)
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/miftah0908/watchers/)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
