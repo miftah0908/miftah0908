@@ -20,14 +20,10 @@ Introducing my name is Miftah, I'm from Indonesia, I'm 13 years old, I'm still l
 
 <details align="center"><summary><b>Github Statistics 💤</b></summary><br>
 
-<div align="center">
-📊 GitHub Stats:
-  
+## 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=miftah0908&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miftah0908&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miftah0908&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compaact)
-</div>
-</details>
 
 <details align="center"><summary><b>Trophies ✨</b></summary><br>
 
