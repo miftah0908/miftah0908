@@ -35,6 +35,7 @@ Introducing my name is Miftah, I'm from Indonesia, I'm 13 years old, I'm still l
 
 <p align="center">
 ## 🏆 GitHub Trophies
+  
 ![](https://github-profile-trophy.vercel.app/?username=miftah0908&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </p>
 </details>
